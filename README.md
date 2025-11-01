@@ -1,4 +1,4 @@
-# 📄 PDF Q&A 
+# 📄 PDF CHATBOT
 
 > Ask questions about any PDF effortlessly using this.
 
