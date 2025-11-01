@@ -57,3 +57,14 @@ pip install -r requirements.txt
 
 ## Here's a demo of this - 
 I've used the pdf - Hands-On Machine Learning with Scikit-Learn & TensorFlow book
+
+<img width="1464" height="823" alt="Screenshot 2025-11-01 at 10 55 35 PM" src="https://github.com/user-attachments/assets/03c1bc43-78d5-4b4f-a565-7e82289f3538" />
+
+
+
+<img width="1417" height="799" alt="Screenshot 2025-11-01 at 11 11 02 PM" src="https://github.com/user-attachments/assets/5f079d96-bc09-4276-bf47-707478ebd659" />
+After Uploading...
+
+
+<img width="1469" height="837" alt="Screenshot 2025-11-01 at 11 13 30 PM" src="https://github.com/user-attachments/assets/46aa2fcf-8092-467e-82b5-d8640b72443b" />
+Screenshot of the chat...
