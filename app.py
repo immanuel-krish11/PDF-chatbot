@@ -29,7 +29,6 @@ def upload_pdf():
 def chat():
     global qa_chain
     question = request.json['question']
-    # answer = qa_chain.invoke({"input": question})
     answer = qa_chain(question) 
     print(answer)
     return jsonify({'answer': answer.get('answer')})
