@@ -1,6 +1,8 @@
 # virtual environment
 venv/
-
 .env
 
 modules/__pycache__ 
+
+# os files
+.DS_Store
